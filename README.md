@@ -2,7 +2,13 @@
 
 **Full Stack Developer | Based in Hamburg, Germany 🇩🇪**
 
-I am an experienced developer focused on building robust and scalable applications using modern Full Stack technologies. With 5 years of professional experience, I thrive in collaborative, agile environments and am dedicated to writing clean, maintainable code.
+I bring **5 years of hands-on experience** in building robust applications using Full Stack technologies. I am currently dedicated to an intense **upskilling phase**, actively mastering modern frameworks and tools to immediately re-enter collaborative, agile environments. My focus remains on writing clean, scalable, and maintainable code, leveraging the technical foundations established throughout my career.
+
+---
+
+### 💡 Focus & Motivation
+
+I am highly motivated to transition my past expertise into new roles. My current activities include intensive project work and technical review, ensuring my skills are sharp and aligned with current industry best practices.
 
 ---
 
@@ -20,8 +26,8 @@ I am an experienced developer focused on building robust and scalable applicatio
 
 Here are a few repositories that best reflect my recent work and skills:
 
-* **[Your Portfolio Link]** - *[Brief description of portfolio design/stack]*
-* **[Client Dashboard Link]** - A fully responsive client analytics interface showcasing advanced CSS Grid/Flexbox techniques.
+* **[https://tghazi.netlify.app/]** - *[Brief description of portfolio design/stack]*
+* **(https://github.com/Tamergh96/Landing-Page)** - A fully responsive client analytics interface showcasing advanced CSS Grid/Flexbox techniques.
 * **[Coffee Shop Project Link]** - A modern, responsive front-end design project focusing on aesthetic appeal and seamless mobile UX.
 
 ---
