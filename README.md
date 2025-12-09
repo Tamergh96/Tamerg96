@@ -28,8 +28,6 @@ Here are a few repositories that best reflect my recent work and skills:
 
 * **[https://tghazi.netlify.app/]** - *[Brief description of portfolio design/stack]*
 * **(https://github.com/Tamergh96/Landing-Page)** - A fully responsive client analytics interface showcasing advanced CSS Grid/Flexbox techniques.
-* **[Coffee Shop Project Link]** - A modern, responsive front-end design project focusing on aesthetic appeal and seamless mobile UX.
-
 ---
 
 ### 🌐 Let's Connect
