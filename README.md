@@ -11,8 +11,8 @@ I am an experienced developer focused on building robust and scalable applicatio
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript, Angular, Bootstrap |
-| **Backend** | Java, PHP, MySQL, PostgreSQL, RESTful APIs |
-| **Tools/Version Control** | Git, GitHub, Docker (Basic), VS Code |
+| **Backend** | Java, PHP, MySQL, RESTful APIs |
+| **Tools/Version Control** | Git, GitHub, VS Code |
 
 ---
 
@@ -28,11 +28,8 @@ Here are a few repositories that best reflect my recent work and skills:
 
 ### 🌐 Let's Connect
 
-* **Portfolio:** [Your Portfolio URL]
-* **LinkedIn:** [Your LinkedIn URL]
-* **XING:** [Your XING URL]
+* **Portfolio:** [Your Portfolio URL](https://tghazi.netlify.app/)
+* **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/tamerghazi/]
+* **XING:** [Your XING URL](https://www.xing.com/profile/Tamer_Ghazi]
 * **Email:** tamerghazi@hotmail.com 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamergh96&show_icons=true&theme=dark" alt="Tamer Ghazi GitHub Stats" />
-</p>
