@@ -29,7 +29,7 @@ Here are a few repositories that best reflect my recent work and skills:
 ### 🌐 Let's Connect
 
 * **Portfolio:** (https://tghazi.netlify.app/)
-* **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/tamerghazi/]
-* **XING:** [Your XING URL](https://www.xing.com/profile/Tamer_Ghazi]
+* **LinkedIn:** [https://www.linkedin.com/in/tamerghazi/]
+* **XING:** (https://www.xing.com/profile/Tamer_Ghazi]
 * **Email:** tamerghazi@hotmail.com 
 
